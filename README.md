@@ -14,7 +14,7 @@ This is the kind of analysis a Data or Risk Analyst would be asked to produce wh
 
 ## Dataset
 
-**Source:** [Online Retail II — UCI Machine Learning Repository via Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+**Source:** [Online Retail Dataset — Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
 
 **Description:** Transactional sales data from a UK-based online retailer. Each row represents one line item in a customer invoice.
 
@@ -83,7 +83,7 @@ pip install pandas numpy matplotlib
 ```
 
 **Steps:**
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci) and place it in a `data/` folder inside the project directory
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset) and place it in a `data/` folder inside the project directory
 2. Open `Customer_Revenue_Concentration_Risk_Analysis.ipynb` in Jupyter Notebook or JupyterLab
 3. Run all cells from top to bottom (`Kernel → Restart & Run All`)
 
