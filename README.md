@@ -139,4 +139,4 @@ Data & Risk Analyst — ANZ (Australia and New Zealand Banking Group), Bangalore
 
 This project reflects the kind of risk-focused data analysis I work with professionally — specifically the practice of identifying revenue concentration and dependency risks that inform strategic and operational decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/dhruvjoshi09/])
